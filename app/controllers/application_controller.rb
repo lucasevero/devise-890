@@ -11,4 +11,4 @@ class ApplicationController < ActionController::Base
   end
 end
 
-# A LOTT OF CODE!!!!
+# Changed comment
